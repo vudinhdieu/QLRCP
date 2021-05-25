@@ -1,2 +1,2 @@
-# QLRCP
-quản lý rạp chiếu phim
+# Quan-li-ban-ve-rap-chieu-phim---CNPM
+Đồ án nhập môn công nghệ phần mềm :))
