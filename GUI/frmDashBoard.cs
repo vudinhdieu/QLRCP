@@ -30,7 +30,7 @@ namespace GUI
 
         private void btnLogIn_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            this.Hide();// ẩn form
             frmAdminNewDesign frm = new frmAdminNewDesign();
             frm.ShowDialog();
             this.Show();
